@@ -1,6 +1,6 @@
 /*
 Escola: Etec Abdias do Nascimento
-Curso: 2° Desenvolvimento de Sistemas
+Curso: 3° Desenvolvimento de Sistemas
 Equipe Fearless2077 com o robô Feraless 2077
 integrantes da equipe: Fabiano Barros Rocha, Luiz Felipe Carvalho Leite e Isaac Dennis Sombra Moreira Alves
 */
